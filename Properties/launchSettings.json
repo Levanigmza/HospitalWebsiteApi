@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": true,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:13800",
+      "sslPort": 44365
+    }
+  },
+  "HospitalWebsiteApi": {
+    "commandName": "Project",
+    "launchBrowser": true,
+    "applicationUrl": "http://localhost:5000",
+    "environmentVariables": {
+      "EnvironmentName": "Development",
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    }
+  }
+}
